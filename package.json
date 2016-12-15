@@ -29,5 +29,12 @@
   "bugs": {
     "url": "https://github.com/dckesler/react-overview-project/issues"
   },
-  "homepage": "https://github.com/dckesler/react-overview-project#readme"
+  "homepage": "https://github.com/dckesler/react-overview-project#readme",
+  "babel": {
+    "presets": [
+      "es2015",
+      "react",
+      "stage-0"
+    ]
+  }
 }
